@@ -1,0 +1,8 @@
+{
+  "name": "streamchat",
+  "app_id": "0a62c427",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
